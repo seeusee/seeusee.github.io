@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-08-25T04:05:13.736Z</updated>
+  <updated>2017-08-25T04:18:38.668Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,9 +20,10 @@
     <link href="http://yoursite.com/2017/08/25/test/"/>
     <id>http://yoursite.com/2017/08/25/test/</id>
     <published>2017-08-25T04:05:13.328Z</published>
-    <updated>2017-08-25T04:05:13.736Z</updated>
+    <updated>2017-08-25T04:18:38.668Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="Notes-on-Modern-Quantum-Mechanics-Chapter-1"><a href="#Notes-on-Modern-Quantum-Mechanics-Chapter-1" class="headerlink" title="Notes on Modern Quantum Mechanics Chapter 1"></a>Notes on Modern Quantum Mechanics Chapter 1</h1><p>标签（空格分隔）： Physics Quantum_Mechanics</p>
+    <content type="html"><![CDATA[<p>title: Notes<br>date: 2015-03-21 16:22:11<br>categories: 科学<br>tags: [物理，科学]<br>keywords: 量子力学<br>description: 描述</p>
+<h1 id="Notes-on-Modern-Quantum-Mechanics-Chapter-1"><a href="#Notes-on-Modern-Quantum-Mechanics-Chapter-1" class="headerlink" title="Notes on Modern Quantum Mechanics Chapter 1"></a>Notes on Modern Quantum Mechanics Chapter 1</h1><p>标签（空格分隔）： Physics Quantum_Mechanics</p>
 <p>###The Stern-Gerlach Experiment</p>
 <ol>
 <li>从Stern-Gerlach实验（ 磁场下的离子束自旋分裂）开始引入态的概念。</li>
@@ -78,7 +79,8 @@
     
     <summary type="html">
     
-      &lt;h1 id=&quot;Notes-on-Modern-Quantum-Mechanics-Chapter-1&quot;&gt;&lt;a href=&quot;#Notes-on-Modern-Quantum-Mechanics-Chapter-1&quot; class=&quot;headerlink&quot; title=&quot;Notes 
+      &lt;p&gt;title: Notes&lt;br&gt;date: 2015-03-21 16:22:11&lt;br&gt;categories: 科学&lt;br&gt;tags: [物理，科学]&lt;br&gt;keywords: 量子力学&lt;br&gt;description: 描述&lt;/p&gt;
+&lt;h1 id=&quot;Notes-on-Mo
     
     </summary>
     

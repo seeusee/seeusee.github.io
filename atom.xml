@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-08-25T07:11:58.493Z</updated>
+  <updated>2017-08-25T07:15:02.940Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,65 +20,9 @@
     <link href="http://yoursite.com/2017/08/25/test-1/"/>
     <id>http://yoursite.com/2017/08/25/test-1/</id>
     <published>2017-08-25T07:11:30.000Z</published>
-    <updated>2017-08-25T07:11:58.493Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="Notes-on-Modern-Quantum-Mechanics-Chapter-1"><a href="#Notes-on-Modern-Quantum-Mechanics-Chapter-1" class="headerlink" title="Notes on Modern Quantum Mechanics Chapter 1"></a>Notes on Modern Quantum Mechanics Chapter 1</h1><p>��ǩ���ո��ָ����� Physics Quantum_Mechanics</p>
-<p>###The Stern-Gerlach Experiment</p>
-<ol>
-<li>��Stern-Gerlachʵ�飨 �ų��µ��������������ѣ���ʼ����̬�ĸ��</li>
-<li>����S-Gʵ�����������۲⡱�ᡰ�ƻ�����Ϣ�����۲��ᵼ�µ���̬��̮����<blockquote>
-<p>More Precisely, we can say that the selection of the $S_x$+ beam by the second apparatus completely destroys any <em>previous</em> information about $S_Z$  —P5</p>
-</blockquote>
-</li>
-<li>��ƫ��ʵ����S-Gʵ�������������֣��ѵ��������͹Ⲩ��ƫ�������ȣ�ƫ����ˮƽƫ������ֱƫ����Բƫ�����ֻ���������ģʽ�����ƵĶ�Ӧ����������$S_x$,$S_y$,$S_z$</li>
-<li>ѡȡһ����(basis)�����Խ�����ģʽ����ʾΪ�û��׵��������ϡ������У�Ҳ��������ѧ�������������ѡȡ��$S_z$�Խǻ��Ļ��ף���|+&gt;��|-&gt;</li>
-<li>ѡȡ���׺󼴿ɽ�$S_x$,$S_y$,$S_z$��ʾ�������������ף�����ά�ȣ��������븴��i����֤������һ��</li>
-</ol>
-<h3 id="Kets-Bras-and-Operators"><a href="#Kets-Bras-and-Operators" class="headerlink" title="Kets, Bras, and Operators"></a>Kets, Bras, and Operators</h3><ol>
-<li>Dirac ţ�ƣ�</li>
-<li>ket space �� һ�� Hilbert space (����ά�����Կռ䣩</li>
-<li>�����ﲢ����Ҫ�ȸ�����Ket������ʲô����ֻ��Ҫ֪��ket��<strong>����</strong>�ģ��ӷ������ˣ�null ket</li>
-<li>Operator����������������Ket�ϵ�һ�����Ա任������������operator</li>
-<li>Eigenvalue,eigenket,eigenstate,��ketspace�ѡȡĳһoperator������һ����Ӧ�ģ������걸��kets,ʹ�ø�operator��������Щkets�ϵĽ�����Ч������</li>
-<li>����ket���ɷֽ���eigenkets����������</li>
-<li>Bra��Ketһһ��Ӧ����$c|a&gt;$��Ӧ$c^*&lt; a\mid$</li>
-<li>�����ڻ�(inner product), &lt; a|b &gt;=&lt; b|a &gt;*����ʵ�ռ䲻ͬ��</li>
-<li>�����ԣ���&lt; a|a &gt;�Ǹ��������ڻ�Ϊ0������ket��������һ��</li>
-<li>$X|\alpha&gt;=&lt; \alpha|X^\dagger$, ����$X=X^\dagger$�����Ƹ�����ΪHermitian</li>
-<li>Operator ֮���ĳ˷�����������$(XY)^\dagger=Y^\dagger X^\dagger$ </li>
-<li>Outer product= һ������</li>
-<li>�����ɹ���</li>
-<li>ע�⣬ĿǰΪֹ���������������ʶ��Ƕ��������ģ����򵥵㣬������G-Sʵ���Ľ������ݳ�����ֻ��Ԫ��֮�����߼���ϵ��well-defined����û���漰��ket,bra����operator������ʲô�������������֣�����ǡ�ú��ʺ�����������Щ��ѧ��ϵ</li>
-</ol>
-<h3 id="Base-kets-and-Matrix-Representations"><a href="#Base-kets-and-Matrix-Representations" class="headerlink" title="Base kets and Matrix Representations"></a>Base kets and Matrix Representations</h3><ol>
-<li>Eigenvalues of a Hermitian are real; the eigenstate of different eigenvalues are orthogonal. ��һ�㣬<strong>��������ʵ��������Operator��Ȼ�Ƕ��׵�</strong>���ڶ��㣬��ʵ��eigenstate�������ǶԽǻ����̣�Ҳ����basis transformation��</li>
-<li>����̬����չ���ɱ���̬�����Ե���$|\alpha&gt;=\Sigma |a’&gt;&lt; a’|\alpha&gt;$(��������ŷʽ�ռ����Ĺ���)����Ҫ����$\Sigma |a’&gt;&lt; a’|=1$�������������õ������Ķ����ˣ��ͽ����ɹ���һ��������Ч���������������ϵ���������ʱ��û����͸����</li>
-<li>ͶӰ����������ŷʽ�ռ���$\widehat{n}(\overrightarrow{n}��)$��</li>
-<li>Bra����������ket����������Operator�������ڻ�������ת��</li>
-<li>һ�仰����������һ��̬���Ȱ����ֽ��ɱ���̬������������û��������</li>
-<li>��������ϵͳ����Z��Ϊ����ȡ+&gt;��-&gt;����̬��baseket)��������̬����$S_z$�����ı���̬��Ҳ����˵$S<em>z$�����������ǶԽǻ��ġ�$S</em>+$��$S_-$���������ֱ���ʾ��z��������������һ�Σ�+/-�����Ҿ��ÿ��԰�|-&gt;�ĳ�$��0��-1��^ T$��</li>
-</ol>
-<p>###Measurements Observables and Uncertainly Relations</p>
-<ol>
-<li>��ν�۲��ᵼ��ϵͳ̮�������������⣺�ڹ۲�֮ǰ��ϵͳ״̬�����ã���Ӧ�۲����ģ�����̬�����Ե�������ʾ�������Ĺ��̾���һ��obsevable operator ������̬�ϵĹ��̣���һ���̱�������һ�����Ա任����ԭ�е�̬������̬���任���۲�̬��ĳ����̬�ϣ�</li>
-<li>�����������Ա任���ջ��䵽�ĸ�����̬�����ǲ��ö�֪�����ǿ�������ÿһ���۲�̬������ԭ����̬�еĸ��ʣ��������ӵ�����������Ϊ1/2��</li>
-<li>�ڴ�ֵ��������˼</li>
-<li>������������ϵͳ��Ĭ��Z����Ϊ��������̬����ô��ʾX,Y����������̬�Ϳ�����������̬�����Ե��ӱ�ʾ������Ӧ�ģ���x,y��������̬�Խǻ��ľ�����Ϊ$S_x$��$S_y$</li>
-<li>$[S_i,S<em>j]=i\epsilon</em>{ijk}S_k$,${S_i,S<em>j}=1/2\hbar^2\delta</em>{ij}$(��������������Ȼ����)</li>
-<li>$\mathbf{S}^2=\frac{3}{4}\hbar^2$;$[\mathbf{S},S_i]=0$</li>
-<li>$[A,B]=0$�����ס�������ӵ����ͬ�ı���̬Ϊʲô��Ҫ����Ϊ���������н��۶��ǻ��ڷǼ򲢵�ģ�͵õ��ģ����籾��̬�����Ե�֤���������������ᵼ��ket�ռ���ά�����������е���֪�������ο�$S_i$���Ƶ�������˵һ�䣬����������ѧ������ʱ�����������������й۲����ݣ�����ֵ����ȥ�ұ���̬���������ľ�����ʾ�ģ�һ�����ּ򲢣�����̬���Ҳ�ȫ�ˣ���</li>
-<li>��A�Ǽ򲢵���ʱ�����������ҵ�һ��ӵ����ͬ����̬�Ķ�����B��ֻҪB������ͬ�ı���̬�ϼ򲢣���ʵ��Ҳ���ᣨһ�����룬��һ���ԣ��������ܰ�a��ȫ������̬�ҳ���</li>
-<li>��������ԭ�ӵ�ģ�;��������գ����������򲢱ȽϽ������������������򲢱Ƚϴ�������</li>
-<li>�Ƕ�������ĳЩ�ӿռ��������Ƕ��׵ģ�������s state��</li>
-<li>��ȷ����ϵ��֤��˼·���գ�1.ʩ���Ȳ���ʽ 2.Hermitian ���ڴ�ֵ��ʵ�� 3.Anti-Hermitian ���ڴ�ֵ�Ǵ�����<br>###Change of Basis</li>
-<li>��Ҫ�����Ƕ���base ket�����Ա任���ɣ������Խǻ��Ĺ��̣����������������Լ�˵��һ����</li>
-<li>Transformation Matrix��Operator�Ĺ�ϵ��ʵ�����ǽ�����һ�����Ʊ任</li>
-</ol>
-]]></content>
+    <updated>2017-08-25T07:15:02.940Z</updated>
     
     <summary type="html">
-    
-      &lt;h1 id=&quot;Notes-on-Modern-Quantum-Mechanics-Chapter-1&quot;&gt;&lt;a href=&quot;#Notes-on-Modern-Quantum-Mechanics-Chapter-1&quot; class=&quot;headerlink&quot; title=&quot;Notes 
     
     </summary>
     
